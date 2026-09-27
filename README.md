@@ -80,17 +80,13 @@ The Power BI dashboard tracks:
 
 ## Dashboard
 
-### Executive Overview
+1. Executive Overview
 
-![Executive Dashboard](screenshots/executive_dashboard.png)
+2. Churn Analysis
 
-### Churn Analysis
+3. AI Retention Strategy
 
-![Churn Analysis](screenshots/churn_analysis.png)
 
-### AI Retention Strategy
-
-![Retention Recommendations](screenshots/retention_recommendations.png)
 
 ## Churn Risk Scoring
 
