@@ -1,0 +1,74 @@
+# AI-Assisted Churn Insights
+
+## 1. Overall Churn
+
+- Total customers: approximately 7K
+- Churned customers: approximately 2K
+- Overall churn rate: 26.54%
+- Revenue at risk: 2.86M
+
+## 2. Key Churn Patterns
+
+### Contract
+
+Month-to-month customers show the highest observed churn rate at approximately 42%.
+
+One-year customers show approximately 11% churn, while two-year customers show approximately 3%.
+
+### Tenure Group
+
+The 0–6 month customer group shows the highest observed churn rate at approximately 53%.
+
+Churn decreases across the displayed tenure groups, reaching approximately 9% for customers with 49+ months.
+
+### Internet Service
+
+Fiber optic customers show an observed churn rate of approximately 42%.
+
+DSL customers show approximately 19%, while customers with no internet service show approximately 7%.
+
+### Payment Method
+
+Electronic-check customers show the highest displayed churn rate among the payment methods at approximately 45%+.
+
+## 3. Customer Segments Requiring Attention
+
+- Month-to-month customers
+- Customers in the first 0–6 months
+- Fiber optic customers
+- Electronic-check customers
+- Customers classified in the High Risk category
+
+## 4. Possible Business Interpretations
+
+These findings represent observed patterns and do not establish causation.
+
+Possible areas for further investigation include:
+
+- Early customer onboarding and experience
+- Contract commitment and retention
+- Fiber optic service experience and pricing
+- Payment-related customer characteristics
+- Customers with higher provided Churn Scores
+
+## 5. Suggested Retention Actions
+
+- Strengthen early-customer onboarding.
+- Test incentives for eligible customers to move to longer-term contracts.
+- Investigate churn reasons among fiber optic customers.
+- Investigate customer characteristics associated with electronic-check payments.
+- Prioritize proactive engagement with higher-risk customers.
+
+## 6. KPIs to Monitor
+
+- Churn Rate
+- Churned Customer Count
+- Revenue at Risk
+- New-Customer Churn Rate
+- Contract Conversion Rate
+- High-Risk Customer Count
+- Customer Lifetime Value (CLTV)
+
+## 7. Executive Summary
+
+The analysis shows an overall churn rate of 26.54%, with approximately 2K churned customers and 2.86M in revenue at risk. Higher observed churn is concentrated among month-to-month customers, customers in the first 0–6 months, fiber optic customers, and electronic-check customers. These segments should be investigated further and can be considered for targeted retention initiatives.

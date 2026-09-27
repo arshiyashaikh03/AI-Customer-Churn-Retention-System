@@ -1,0 +1,42 @@
+# Business Problem
+
+## Project
+AI Customer Churn & Retention System
+
+## Business Objective
+
+Identify the major factors associated with customer churn and develop
+an AI-assisted customer retention strategy.
+
+## Business Problem
+
+A telecom company is losing customers and wants to understand why
+customers are leaving.
+
+Management wants to identify:
+
+- Which customers are more likely to churn?
+- Which customer segments have higher churn?
+- Which contracts are associated with higher churn?
+- Does customer tenure relate to churn?
+- Does monthly charge relate to churn?
+- Which services are associated with churn?
+- What revenue is associated with customers who have churned?
+- What retention strategies could be tested?
+
+## Target Users
+
+- Business Managers
+- Customer Retention Team
+- Marketing Team
+- Customer Service Team
+- Business Analysts
+
+## Tools
+
+- Excel
+- Power BI
+- Power Query
+- DAX
+- ChatGPT
+- GitHub

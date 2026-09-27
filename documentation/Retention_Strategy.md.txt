@@ -1,0 +1,84 @@
+# Customer Retention Strategy
+
+## 1. Business Objective
+
+Identify customer segments with higher observed churn
+and develop targeted retention actions.
+
+## 2. Priority Segments
+
+### Month-to-month customers show a higher observed churn rate.
+
+Observed pattern:
+Approximately 42% churn rate.
+
+Suggested action:
+Test incentives for eligible customers to move to
+longer-term contracts.
+
+KPI:
+Contract Conversion Rate and Churn Rate.
+
+---
+
+### New Customers — 0–6 Months
+
+Observed pattern:
+Approximately 53% churn rate.
+
+Suggested action:
+Strengthen onboarding and early-stage customer engagement.
+
+KPI:
+0–6 Month Churn Rate.
+
+---
+
+### Fiber Optic Customers
+
+Observed pattern:
+Approximately 42% churn rate.
+
+Suggested action:
+Investigate service experience, pricing and recorded
+churn reasons for this segment.
+
+KPI:
+Fiber Optic Churn Rate.
+
+---
+
+### Electronic-Check Customers
+
+Observed pattern:
+Highest displayed churn rate among payment methods,
+at approximately 45%+.
+
+Suggested action:
+Investigate payment-related customer characteristics
+and experience.
+
+KPI:
+Electronic-Check Churn Rate.
+
+---
+
+## 3. High-Risk Customers
+
+The dashboard contains a provided risk classification
+based on the dataset's Churn Score.
+
+Suggested action:
+Use the classification to prioritize customers for
+further investigation or proactive engagement.
+
+## 4. Measurement Plan
+
+Monitor:
+
+- Overall Churn Rate
+- Segment-level Churn Rate
+- Revenue at Risk
+- Contract Conversion Rate
+- Customer Retention Rate
+- CLTV
